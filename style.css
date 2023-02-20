@@ -1,0 +1,27 @@
+body {
+  background: red;
+}
+
+h1 {
+  font-style: italic;
+  padding: 20px;
+}
+
+p {
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+  display: block;
+}
+
+a {
+  padding: 10px;
+  color: green;
+  font-style: italic;
+}
+
+img {
+  border-radius: 5px;
+  display: block;
+  margin: 30px auto;
+}
